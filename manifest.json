@@ -1,7 +1,7 @@
 {
     "name": "Bad Apple",
     "version": "1.0.0",
-    "supported": "3.1.6",
+    "supported": "3.1.5",
     "type": "skill",
     "buttonColor": "#58586D #282735"
 }
