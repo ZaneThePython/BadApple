@@ -1,0 +1,1 @@
+Bad Apple!! PV on Jibo's face. Swipe down to exit.
